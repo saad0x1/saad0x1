@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/saad0x1/saad0x1/awdad.PNG">
+  <img src="https://github.com/saad0x1/saad0x1/awdad.png">
 </p>
 
 <p align="center">
