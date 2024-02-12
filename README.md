@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://profile-counter.glitch.me/saad0x1/count.svg">
+</p>
+
+
 ## CTF Player | Penetration Tester | Mentor 
 
 Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, and continuous learning in the ever-evolving world of technology.
