@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, and continuous learning in the ever-evolving world of technology.
 
 - 🔭 **Currently Working On:** A new hacking course with a certificate for completion.
-- 🌱 **Learning:** JS,ReactJS,NEXTjs,Python,Bash and AD.
+- 🌱 **Learning:** WebDev,Python,Bash and AD.
 - 👯 **Collaborating:** Open to Web CTFs.
 - 📫 **Reach Me At:** [Discord - OwlSec](https://discord.gg/owlsec)
 - ⚡ **Fun Fact:** I approach everything with a sense of fun and curiosity. Life's too short to be too serious!
@@ -49,6 +49,24 @@ Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, and c
 [batch-shield]: https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows&logoColor=white
 [batch-url]: https://en.wikipedia.org/wiki/Batch_file
 
+
+### 📚 Essential Resources for Penetration Testers
+
+- **Cheat Sheets:** [Pentest Book by Six2dez](https://pentestbook.six2dez.com/)
+- **OSINT Tools:** [OSINT Framework](https://osintframework.com/)
+- **Hacking Techniques:** [HackTricks](https://book.hacktricks.xyz/)
+
+### 📺 Recommended YouTube Videos
+
+- [The Secret Step-by-Step Guide to Learn Hacking](https://www.youtube.com/watch?v=2TofunAI6fU)
+- [How to Pass Your CompTIA A+ Exams](https://www.youtube.com/watch?v=OS9MJjNK6gA&list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K)
+- [Tailored, Machine Learning-driven Password Guessing Attacks (DefCamp 2018)](https://www.youtube.com/watch?v=iK6ZbD6v9Gg)
+
+### 📈 GitHub Stats
+
+![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saad0x1&show_icons=true&theme=radical)
+
+<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 
 <!---
 saad0x1/saad0x1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
