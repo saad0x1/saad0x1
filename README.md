@@ -1,4 +1,4 @@
-## Ethical Hacker | Penetration Tester | Security Researcher
+## CTF Player | Penetration Tester | Mentor 
 
 Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, and continuous learning in the ever-evolving world of technology.
 
