@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/saad0x1/saad0x1/blob/main/Pfp.png">
+  <img src="https://github.com/saad0x1/saad0x1/blob/main/corporate.png">
 </p>
 
 <p align="center">
@@ -8,13 +8,13 @@
 </p>
 
 
-## CTF Player | Penetration Tester | Mentor 
+## CTF Player | Penetration Tester | Blogger
 
 Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, and continuous learning in the ever-evolving world of technology.
 
 - 🔭 **Currently Working On:** A new hacking course with a certificate for completion.
-- 🌱 **Learning:** WebDev,Python,Bash and AD.
-- 👯 **Collaborating:** Open to Web CTFs.
+- 🌱 **Learning:** Python, Bash, C & Web Pentesting + AD
+- 👯 **Collaborating:** Open to play CTFs.
 - 📫 **Reach Me At:** [Discord - OwlSec](https://discord.gg/owlsec)
 - ⚡ **Fun Fact:** I approach everything with a sense of fun and curiosity. Life's too short to be too serious!
 
@@ -59,6 +59,10 @@ Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, and c
 [batch-shield]: https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows&logoColor=white
 [batch-url]: https://en.wikipedia.org/wiki/Batch_file
 
+### ⚙️Projects
+
+- **Blue Ducky:** [0-click-BT-Vuln](https://github.com/pentestfunctions/BlueDucky)
+- **WSL Seamless mode:** [WSL-Seamless](https://github.com/pentestfunctions/WSL-Seamless)
 
 ### 📚 Essential Resources for Penetration Testers
 
