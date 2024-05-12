@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, and c
 - 🔭 **Currently Working On:** A new hacking course with a certificate for completion.
 - 🌱 **Learning:** Python, Bash, C & Web Pentesting + AD
 - 👯 **Collaborating:** Open to play CTFs.
-- 📫 **Reach Me At:** [Discord - OwlSec](https://discord.gg/owlsec)
+- 📫 **Reach Me At:** [Discord - Hacknexus](https://discord.gg/hacknexus)
 - ⚡ **Fun Fact:** I approach everything with a sense of fun and curiosity. Life's too short to be too serious!
 
 ### Languages and Tools:
