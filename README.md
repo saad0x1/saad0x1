@@ -12,10 +12,10 @@
 
 Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, and continuous learning in the ever-evolving world of technology.
 
-- 🔭 **Currently Working On:** A new hacking course with a certificate for completion.
-- 🌱 **Learning:** Python, Bash, C & Web Pentesting + AD
-- 👯 **Collaborating:** Open to play CTFs.
-- 📫 **Reach Me At:** [Discord - InfoSec Study](https://discord.gg/VdnaESmbGd)
+- 🔭 **Currently Working On:** HackTheBox-Labs | Custom Tooling
+- 🌱 **Learning:** Scripting in Python| PowerShell | WebApp Pentesting
+- 👯 **Collaborating:** Content Creation (Making Labs & Boxes).
+- 📫 **Reach Me At:** You can reach me out in both of the place: [Discord - InfoSec Study](https://discord.gg/Vv2a7kSZXV) | [Discord - revdiaries.com](https://discord.gg/GdYanwSCwm)
 - ⚡ **Fun Fact:** I approach everything with a sense of fun and curiosity. Life's too short to be too serious!
 
 ### Languages and Tools:
@@ -61,7 +61,7 @@ Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, and c
 
 ### ⚙️Projects
 
-- **Blue Ducky:** [Just a Python script lol](https://github.com/pentestfunctions/BlueDucky)
+- **Blue Ducky:** [Blue Ducky](https://github.com/pentestfunctions/BlueDucky)
 
 
 ### 📈 GitHub Stats
