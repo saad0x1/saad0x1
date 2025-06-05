@@ -1,7 +1,18 @@
+<p align="center">
+  <img src="https://blog.thecybersimon.com/assets/img/favicons/1337.png">
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/saad0x1/count.svg">
+</p>
+
 # 💫 About Me:
 ## CTF Player | Penetration Tester | Blogger
 <br>Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, and continuous learning in the ever-evolving world of technology.<br><br>- 🔭 **Currently Working On:** Writing blogs.<br>- 🌱 **Learning:** DFIR, x86_64 asm, Python scripting, CBBH Course.<br>- 👯 **Collaborating:** <br>- 📫 **Reach Me At:** You can reach me out here: hello@thecybersimon.com<br>- ⚡ **Fun Fact:** I approach everything with a sense of fun and curiosity. Life's too short to be too serious!
 
+## 🏁 CTF Teams:
+[Inscrutable](https://teams.thecybersimon.com/ctf)
+[Botnet Buddies](https://teams.thecybersimon.com/htb)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@thecybersimon.com) 
